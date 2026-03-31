@@ -3,389 +3,123 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Book a golf lesson with Coach Mike Thompson at Par Excellence Golf Academy. Fill out the form or call (555) 123-4567 to get started." />
-  <title>Contact &amp; Booking | Par Excellence Golf Academy</title>
+  <meta name="description" content="Contact — Questions about Stop Overthinking Your Irons? Get in touch." />
+  <title>Contact | Stop Overthinking Your Irons</title>
   <link rel="stylesheet" href="css/styles.css" />
 </head>
 <body>
 
-  <!-- ========== NAVIGATION ========== -->
   <nav class="navbar" role="navigation" aria-label="Main navigation">
     <div class="container nav-inner">
-      <a href="index.html" class="nav-brand" aria-label="Par Excellence Golf Academy home">
-        <span class="nav-brand-name">⛳ Par Excellence</span>
-        <span class="nav-brand-sub">Golf Academy</span>
+      <a href="index.html" class="nav-brand">
+        <span class="nav-brand-name">⛳ Stop Overthinking</span>
+        <span class="nav-brand-sub">Your Irons</span>
       </a>
-
       <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation" aria-expanded="false">
         <span></span><span></span><span></span>
       </button>
-
       <ul class="nav-links" id="navLinks" role="list">
         <li><a href="index.html">Home</a></li>
-        <li><a href="lessons.html">Lessons</a></li>
-        <li><a href="techniques.html">Techniques</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="contact.html" class="nav-cta">Book a Lesson</a></li>
+        <li><a href="lessons.html">7 Lessons</a></li>
+        <li><a href="range-plan.html">Range Plan</a></li>
+        <li><a href="about.html">My Story</a></li>
+        <li><a href="index.html#pricing" class="nav-cta">Get the Guide</a></li>
       </ul>
     </div>
   </nav>
 
-  <!-- ========== PAGE HERO ========== -->
-  <section class="page-hero" aria-label="Page header">
+  <section class="page-hero">
     <div class="container">
-      <span class="section-label" style="color:var(--green-light)">Get In Touch</span>
-      <h1>Contact &amp; Booking</h1>
-      <p>
-        Ready to tee off? Book your lesson online or reach out directly.
-        We typically respond within one business day.
-      </p>
-    </div>
-  </section>
-
-  <!-- ========== BREADCRUMB ========== -->
-  <div class="breadcrumb" aria-label="Breadcrumb">
-    <div class="container breadcrumb-inner">
-      <a href="index.html">Home</a>
-      <span class="breadcrumb-sep" aria-hidden="true">›</span>
-      <span aria-current="page">Contact</span>
-    </div>
-  </div>
-
-  <!-- ========== CONTACT GRID ========== -->
-  <section class="section" aria-labelledby="contact-heading">
-    <div class="container">
-      <div class="contact-grid">
-
-        <!-- Info sidebar -->
-        <aside class="contact-info-card fade-in" aria-label="Contact information">
-          <h3>Get in Touch</h3>
-          <p>Reach out any time. We love hearing from golfers at every stage of their journey.</p>
-
-          <div class="contact-item" role="listitem">
-            <div class="contact-item-icon" aria-hidden="true">📞</div>
-            <div>
-              <p class="contact-item-label">Phone</p>
-              <p class="contact-item-value"><a href="tel:+15551234567" style="color:inherit">(555) 123-4567</a></p>
-            </div>
-          </div>
-
-          <div class="contact-item" role="listitem">
-            <div class="contact-item-icon" aria-hidden="true">✉️</div>
-            <div>
-              <p class="contact-item-label">Email</p>
-              <p class="contact-item-value"><a href="mailto:mike@parexcellencegolf.com" style="color:inherit">mike@parexcellencegolf.com</a></p>
-            </div>
-          </div>
-
-          <div class="contact-item" role="listitem">
-            <div class="contact-item-icon" aria-hidden="true">📍</div>
-            <div>
-              <p class="contact-item-label">Location</p>
-              <p class="contact-item-value">1420 Fairway Drive<br>Portland, OR 97201</p>
-            </div>
-          </div>
-
-          <div class="contact-item" role="listitem">
-            <div class="contact-item-icon" aria-hidden="true">🚗</div>
-            <div>
-              <p class="contact-item-label">Parking</p>
-              <p class="contact-item-value">Free parking in the main lot. Enter from Birdie Lane.</p>
-            </div>
-          </div>
-
-          <div class="hours-grid" aria-label="Business hours">
-            <h4>Academy Hours</h4>
-            <div class="hours-row">
-              <span>Monday – Friday</span>
-              <span>7:00 AM – 8:00 PM</span>
-            </div>
-            <div class="hours-row">
-              <span>Saturday</span>
-              <span>6:30 AM – 7:00 PM</span>
-            </div>
-            <div class="hours-row">
-              <span>Sunday</span>
-              <span>7:00 AM – 5:00 PM</span>
-            </div>
-            <div class="hours-row" style="border:none;padding-top:0.75rem;font-style:italic">
-              <span style="font-size:0.76rem;color:rgba(255,255,255,0.45)">
-                Last lesson booking 90 min before close.
-              </span>
-            </div>
-          </div>
-        </aside>
-
-        <!-- Booking form -->
-        <main>
-          <div class="form-card fade-in" aria-labelledby="contact-heading">
-            <h3 id="contact-heading">Book Your Lesson</h3>
-            <p>Fill in the form below and Coach Mike will confirm your booking by email within 24 hours.</p>
-
-            <form id="contactForm" novalidate aria-label="Lesson booking form">
-
-              <div class="form-row">
-                <div class="form-group">
-                  <label for="firstName">First Name <span class="required" aria-hidden="true">*</span></label>
-                  <input type="text" id="firstName" name="firstName" class="form-control"
-                         placeholder="e.g. James" required autocomplete="given-name" />
-                </div>
-                <div class="form-group">
-                  <label for="lastName">Last Name <span class="required" aria-hidden="true">*</span></label>
-                  <input type="text" id="lastName" name="lastName" class="form-control"
-                         placeholder="e.g. Robertson" required autocomplete="family-name" />
-                </div>
-              </div>
-
-              <div class="form-row">
-                <div class="form-group">
-                  <label for="email">Email Address <span class="required" aria-hidden="true">*</span></label>
-                  <input type="email" id="email" name="email" class="form-control"
-                         placeholder="you@example.com" required autocomplete="email" />
-                </div>
-                <div class="form-group">
-                  <label for="phone">Phone Number</label>
-                  <input type="tel" id="phone" name="phone" class="form-control"
-                         placeholder="(555) 000-0000" autocomplete="tel" />
-                </div>
-              </div>
-
-              <div class="form-group">
-                <label for="skillLevel">Current Skill Level <span class="required" aria-hidden="true">*</span></label>
-                <select id="skillLevel" name="skillLevel" class="form-control" required>
-                  <option value="" disabled selected>— Select your level —</option>
-                  <option value="complete-beginner">Complete Beginner (never played)</option>
-                  <option value="beginner">Beginner (played a few times, no formal lessons)</option>
-                  <option value="intermediate">Intermediate (regular player, handicap 15–30)</option>
-                  <option value="advanced">Advanced (handicap under 15)</option>
-                  <option value="competitive">Competitive Amateur (single-digit handicap)</option>
-                </select>
-              </div>
-
-              <div class="form-group">
-                <label for="lessonType">Lesson Type <span class="required" aria-hidden="true">*</span></label>
-                <select id="lessonType" name="lessonType" class="form-control" required>
-                  <option value="" disabled selected>— Select a lesson type —</option>
-                  <optgroup label="Individual Sessions">
-                    <option value="single">Single Lesson — $75/hr</option>
-                    <option value="bundle">3-Lesson Bundle — $200</option>
-                    <option value="unlimited">Monthly Unlimited — $500/mo</option>
-                  </optgroup>
-                  <optgroup label="Specific Programs">
-                    <option value="grip-setup">Grip &amp; Setup (Beginner)</option>
-                    <option value="basic-swing">Basic Swing Mechanics (Beginner)</option>
-                    <option value="putting">Putting Fundamentals (Beginner)</option>
-                    <option value="course-mgmt">Course Management (Intermediate)</option>
-                    <option value="iron-play">Iron Play (Intermediate)</option>
-                    <option value="bunker">Bunker Shots (Intermediate)</option>
-                    <option value="shot-shaping">Shot Shaping (Advanced)</option>
-                    <option value="wind-play">Wind Play (Advanced)</option>
-                    <option value="mental-game">Mental Game (Advanced)</option>
-                  </optgroup>
-                  <optgroup label="Assessment">
-                    <option value="free-assessment">Free 15-Min Assessment Call</option>
-                  </optgroup>
-                </select>
-              </div>
-
-              <div class="form-row">
-                <div class="form-group">
-                  <label for="preferredDate">Preferred Date</label>
-                  <input type="date" id="preferredDate" name="preferredDate" class="form-control" />
-                </div>
-                <div class="form-group">
-                  <label for="preferredTime">Preferred Time</label>
-                  <select id="preferredTime" name="preferredTime" class="form-control">
-                    <option value="" disabled selected>— Select time —</option>
-                    <option value="early-morning">Early Morning (7–9 AM)</option>
-                    <option value="morning">Morning (9–11 AM)</option>
-                    <option value="midday">Midday (11 AM–1 PM)</option>
-                    <option value="afternoon">Afternoon (1–4 PM)</option>
-                    <option value="late-afternoon">Late Afternoon (4–6 PM)</option>
-                    <option value="evening">Evening (6–8 PM)</option>
-                  </select>
-                </div>
-              </div>
-
-              <div class="form-group">
-                <label for="goals">Tell Us About Your Goals</label>
-                <textarea id="goals" name="goals" class="form-control"
-                  placeholder="What are you hoping to achieve? Any specific aspects of your game you'd like to work on? Any injuries or physical limitations we should know about?"
-                  rows="4"></textarea>
-              </div>
-
-              <div class="form-group">
-                <label for="hearAboutUs">How Did You Hear About Us?</label>
-                <select id="hearAboutUs" name="hearAboutUs" class="form-control">
-                  <option value="" disabled selected>— Select an option —</option>
-                  <option value="friend">Friend or family recommendation</option>
-                  <option value="search">Google / internet search</option>
-                  <option value="social">Social media</option>
-                  <option value="golf-club">At the golf club / pro shop</option>
-                  <option value="returning">Returning student</option>
-                  <option value="other">Other</option>
-                </select>
-              </div>
-
-              <div style="background:var(--green-pale);border-radius:var(--radius-sm);padding:0.75rem 1rem;margin-bottom:1.25rem;font-size:0.82rem;color:var(--green-dark)">
-                <strong>Note:</strong> Submitting this form is a booking request. Coach Mike will
-                confirm availability and send a calendar invite within 24 hours. Payment is made
-                in person or online prior to your first lesson.
-              </div>
-
-              <button type="submit" class="btn btn-primary" style="width:100%;font-size:1rem;padding:0.85rem">
-                Submit Booking Request
-              </button>
-            </form>
-
-            <!-- Success message (shown after submit) -->
-            <div id="formSuccess" class="form-success" role="alert" aria-live="polite">
-              <div style="font-size:2.5rem;margin-bottom:0.75rem" aria-hidden="true">⛳</div>
-              <h4>Booking Request Received!</h4>
-              <p>
-                Thank you! Coach Mike will review your request and contact you within 24 hours
-                to confirm your lesson time and send over all the details you need.
-              </p>
-              <p style="margin-top:0.5rem">
-                In the meantime, why not browse our
-                <a href="techniques.html" style="color:var(--green-mid);text-decoration:underline">technique guides</a>?
-              </p>
-            </div>
-          </div>
-        </main>
-
+      <div class="page-hero-content">
+        <div class="hero-eyebrow">Get in Touch</div>
+        <h1>Contact</h1>
+        <p>Questions about the guide, refund requests, or just want to share how your irons are coming along — I read every message.</p>
       </div>
     </div>
   </section>
 
-  <!-- ========== FAQ ========== -->
-  <section class="section section-alt" aria-labelledby="faq-heading">
-    <div class="container" style="max-width:760px">
-      <div class="text-center">
-        <span class="section-label">Common Questions</span>
-        <h2 class="section-title" id="faq-heading">Frequently Asked Questions</h2>
+  <section class="section">
+    <div class="container contact-layout">
+      <div class="contact-form-wrap">
+        <h2>Send a Message</h2>
+
+        <form id="contactForm" class="contact-form" novalidate>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="firstName">First Name</label>
+              <input type="text" id="firstName" name="firstName" required placeholder="Your first name" />
+            </div>
+            <div class="form-group">
+              <label for="lastName">Last Name</label>
+              <input type="text" id="lastName" name="lastName" required placeholder="Your last name" />
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email" required placeholder="you@example.com" />
+          </div>
+          <div class="form-group">
+            <label for="subject">Subject</label>
+            <select id="subject" name="subject">
+              <option value="">Select a topic...</option>
+              <option value="question">Question about the guide</option>
+              <option value="refund">Refund request</option>
+              <option value="feedback">Feedback or results</option>
+              <option value="other">Something else</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" rows="5" required placeholder="What's on your mind?"></textarea>
+          </div>
+          <button type="submit" class="btn btn-gold btn-full">Send Message</button>
+        </form>
+
+        <div id="formSuccess" class="form-success" role="alert" aria-live="polite">
+          <div class="success-icon">✓</div>
+          <h3>Message received!</h3>
+          <p>I'll get back to you within 1–2 business days.</p>
+        </div>
       </div>
 
-      <div style="margin-top:2rem" role="list" aria-label="FAQ items">
-
-        <div style="margin-bottom:1.25rem;background:var(--white);border-radius:var(--radius-md);padding:1.5rem;box-shadow:var(--shadow-sm);border:1px solid var(--gray-light)" role="listitem" class="fade-in">
-          <h4 style="color:var(--green-dark);margin-bottom:0.5rem">What should I bring to my first lesson?</h4>
-          <p style="margin:0;font-size:0.92rem;color:var(--text-body)">
-            Just wear comfortable athletic clothing and bring any clubs you own. If you're a
-            complete beginner with no clubs, we provide loaner equipment at no extra charge.
-            Golf shoes are recommended but not required — trainers with good grip are fine.
-          </p>
+      <div class="contact-info">
+        <div class="contact-info-card">
+          <h3>Quick Answers</h3>
+          <div class="contact-faq-item">
+            <strong>How do I access my purchase?</strong>
+            <p>Gumroad sends your download link immediately after purchase. Check your email — including spam.</p>
+          </div>
+          <div class="contact-faq-item">
+            <strong>Refund policy?</strong>
+            <p>If this doesn't help your iron game, email me and I'll refund you. No questions asked.</p>
+          </div>
+          <div class="contact-faq-item">
+            <strong>When are the driver and putting guides coming?</strong>
+            <p>The driver guide is in progress. Sign up for updates and you'll be the first to know.</p>
+          </div>
+          <div class="contact-faq-item">
+            <strong>Response time?</strong>
+            <p>Usually within 1–2 business days. Sometimes faster.</p>
+          </div>
         </div>
-
-        <div style="margin-bottom:1.25rem;background:var(--white);border-radius:var(--radius-md);padding:1.5rem;box-shadow:var(--shadow-sm);border:1px solid var(--gray-light)" role="listitem" class="fade-in">
-          <h4 style="color:var(--green-dark);margin-bottom:0.5rem">How many lessons will I need before I can play a full round?</h4>
-          <p style="margin:0;font-size:0.92rem;color:var(--text-body)">
-            Most complete beginners are ready to play a relaxed 9-hole round after 3–4 lessons.
-            You won't be shooting par, but you'll have the fundamentals needed to enjoy the
-            course without frustration. Everyone progresses differently — we'll guide you honestly.
-          </p>
-        </div>
-
-        <div style="margin-bottom:1.25rem;background:var(--white);border-radius:var(--radius-md);padding:1.5rem;box-shadow:var(--shadow-sm);border:1px solid var(--gray-light)" role="listitem" class="fade-in">
-          <h4 style="color:var(--green-dark);margin-bottom:0.5rem">Do you offer group lessons?</h4>
-          <p style="margin:0;font-size:0.92rem;color:var(--text-body)">
-            Yes. Groups of 2–4 players receive a 20% discount per person on all lesson packages.
-            This is popular among friends and couples learning together. Corporate team-building
-            packages are also available — contact us for details.
-          </p>
-        </div>
-
-        <div style="margin-bottom:1.25rem;background:var(--white);border-radius:var(--radius-md);padding:1.5rem;box-shadow:var(--shadow-sm);border:1px solid var(--gray-light)" role="listitem" class="fade-in">
-          <h4 style="color:var(--green-dark);margin-bottom:0.5rem">What is your cancellation policy?</h4>
-          <p style="margin:0;font-size:0.92rem;color:var(--text-body)">
-            We ask for at least 24 hours notice to cancel or reschedule. Late cancellations
-            (under 12 hours) are charged at 50% of the session fee. No-shows are charged the
-            full fee. We understand emergencies happen — just call or message us as soon as possible.
-          </p>
-        </div>
-
-        <div style="margin-bottom:1.25rem;background:var(--white);border-radius:var(--radius-md);padding:1.5rem;box-shadow:var(--shadow-sm);border:1px solid var(--gray-light)" role="listitem" class="fade-in">
-          <h4 style="color:var(--green-dark);margin-bottom:0.5rem">Do you teach juniors?</h4>
-          <p style="margin:0;font-size:0.92rem;color:var(--text-body)">
-            Absolutely. Coach Mike is passionate about junior golf and has helped many young
-            players develop lifelong love of the game. Junior rates are available for students
-            under 17. We also offer parent-and-child lesson packages — a fantastic way to
-            share the sport as a family.
-          </p>
-        </div>
-
-        <div style="background:var(--white);border-radius:var(--radius-md);padding:1.5rem;box-shadow:var(--shadow-sm);border:1px solid var(--gray-light)" role="listitem" class="fade-in">
-          <h4 style="color:var(--green-dark);margin-bottom:0.5rem">Is the monthly unlimited plan truly unlimited?</h4>
-          <p style="margin:0;font-size:0.92rem;color:var(--text-body)">
-            Yes — subject to schedule availability. Most unlimited members book 2–4 sessions per
-            week. The plan renews monthly and can be cancelled at any time with no penalty.
-            It's ideal for students who are serious about rapid improvement.
-          </p>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- ========== CTA ========== -->
-  <section class="cta-section" aria-labelledby="contact-cta-heading">
-    <div class="container">
-      <span class="section-label" style="color:var(--green-light)">Still Unsure?</span>
-      <h2 id="contact-cta-heading">Start With a Free Assessment</h2>
-      <p>
-        Not sure which lesson is right for you? Book a free 15-minute call with
-        Coach Mike. No obligation — just an honest conversation about your game.
-      </p>
-      <div class="cta-actions">
-        <a href="tel:+15551234567" class="btn btn-gold">Call (555) 123-4567</a>
-        <a href="mailto:mike@parexcellencegolf.com" class="btn btn-secondary">Send an Email</a>
       </div>
     </div>
   </section>
 
-  <!-- ========== FOOTER ========== -->
-  <footer class="footer" aria-label="Site footer">
-    <div class="container">
-      <div class="footer-grid">
-        <div class="footer-brand">
-          <p class="nav-brand-name" style="color:#fff;font-family:Georgia,serif;font-size:1.05rem">⛳ Par Excellence Golf Academy</p>
-          <p>Dedicated to helping every golfer reach their potential through expert coaching, proven technique, and a genuine passion for the game.</p>
-        </div>
-        <div>
-          <p class="footer-heading">Navigation</p>
-          <ul class="footer-links">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="lessons.html">Lessons &amp; Pricing</a></li>
-            <li><a href="techniques.html">Techniques</a></li>
-            <li><a href="about.html">About Coach Mike</a></li>
-            <li><a href="contact.html">Contact &amp; Booking</a></li>
-          </ul>
-        </div>
-        <div>
-          <p class="footer-heading">Lessons</p>
-          <ul class="footer-links">
-            <li><a href="lessons.html#beginner">Beginner</a></li>
-            <li><a href="lessons.html#intermediate">Intermediate</a></li>
-            <li><a href="lessons.html#advanced">Advanced</a></li>
-            <li><a href="lessons.html#pricing">Pricing</a></li>
-          </ul>
-        </div>
-        <div>
-          <p class="footer-heading">Contact</p>
-          <ul class="footer-links">
-            <li><a href="mailto:mike@parexcellencegolf.com">mike@parexcellencegolf.com</a></li>
-            <li><a href="tel:+15551234567">(555) 123-4567</a></li>
-            <li>1420 Fairway Drive, Portland OR</li>
-          </ul>
-        </div>
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <span>⛳ Stop Overthinking Your Irons</span>
+        <p>A simple system for consistent iron play. Built by a real golfer, for real golfers.</p>
       </div>
-      <div class="footer-bottom">
-        <p>&copy; 2026 Par Excellence Golf Academy. All rights reserved.</p>
-        <div class="footer-bottom-links">
-          <a href="#">Privacy Policy</a>
-          <a href="#">Terms of Service</a>
-        </div>
-      </div>
+      <nav class="footer-links" aria-label="Footer navigation">
+        <a href="index.html">Home</a>
+        <a href="lessons.html">7 Lessons</a>
+        <a href="range-plan.html">Range Plan</a>
+        <a href="about.html">My Story</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+      <p class="footer-copy">&copy; 2025 Stop Overthinking Your Irons. All rights reserved.</p>
     </div>
   </footer>
 
