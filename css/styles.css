@@ -689,6 +689,38 @@ ul { list-style: none; }
 .drill-card ol li { color: rgba(255,255,255,0.8); font-size: 0.88rem; margin-bottom: 6px; }
 
 /* ---- RANGE PLAN PAGE ---- */
+/* ---- FIVE COL GRID ---- */
+.five-col { grid-template-columns: repeat(5, 1fr); }
+@media (max-width: 900px) { .five-col { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 680px) { .five-col { grid-template-columns: repeat(2, 1fr); } }
+
+/* ---- RANGE RULE BOX ---- */
+.range-rule-box {
+  background: var(--green-dark);
+  color: var(--white);
+  border-radius: var(--radius-md);
+  padding: 28px 32px;
+  margin-top: 36px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.range-rule-box h4 { color: var(--gold); font-size: 1rem; }
+.range-rule-box p  { color: rgba(255,255,255,0.85); font-size: 0.92rem; line-height: 1.65; }
+
+/* ---- RANGE NOTE ---- */
+.range-note {
+  background: var(--green-pale);
+  border-left: 4px solid var(--green-mid);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  padding: 14px 20px;
+  margin-top: 20px;
+  font-size: 0.88rem;
+  color: var(--text-body);
+  line-height: 1.6;
+}
+.range-note strong { color: var(--green-dark); }
+
 .range-intro { max-width: 700px; margin: 0 auto; text-align: center; }
 .range-intro h2 { font-family: var(--font-heading); font-size: 1.8rem; color: var(--text-dark); margin-bottom: 16px; }
 .range-intro p { font-size: 1rem; color: var(--text-body); line-height: 1.7; margin-bottom: 14px; }
