@@ -633,6 +633,10 @@ the feelings below and they will take care of themselves.
 
 ## The Feelings That Make It Click
 
+Not everyone relates to the same feeling. Here are three analogies for
+the wrist set — all describing the same movement. Find the one that
+clicks for you and use it.
+
 ### The Fishing Cast
 
 You are at the water's edge, rod in hand, getting ready to cast. You
@@ -662,6 +666,21 @@ Try it right now without a club. Go through the rock-skipping motion
 slowly. Feel your body turn, your elbow stay connected, and your wrist
 load into that palm-up position. That is the backswing. You already
 know how to do it.
+
+### Lifting a Coffee Mug
+
+This one is the simplest of all — and you have probably already done
+it a dozen times today.
+
+Think about lifting a coffee mug toward your mouth. As your hand rises,
+your wrist hinges naturally upward. Your elbow stays close to your
+body. The motion is relaxed, unhurried, completely natural.
+
+That wrist hinge — easy, unforced, elbow connected — is the same
+movement you are looking for in the backswing. The scale is different
+but the feeling is identical. If the fishing cast or rock skip feel
+too athletic or unfamiliar, start here. Everyone knows how to pick
+up a mug.
 
 ---
 
