@@ -423,7 +423,169 @@ from the new position and the results will do the convincing.
 
 ---
 
-*[Lessons 3–7 to follow]*
+# Lesson 3: The Turn — Your Power Move
+
+## Why the Turn Gets Its Own Lesson
+
+The turn is technically the first part of the backswing. So why does it
+get its own lesson?
+
+Because it is the most important move in the entire swing — and the most
+commonly neglected by recreational golfers. You can have a perfect grip
+and a solid setup and still hit the ball inconsistently if you do not
+understand the turn. It deserves your full attention before we add
+anything else.
+
+This is where power comes from. Not from your arms. Not from swinging
+harder. From rotating your body. Once you feel a proper turn — really
+feel it — everything else in the swing begins to make sense.
+
+---
+
+## What the Turn Actually Is
+
+Here is the simplest way I can describe it:
+
+From your setup position, you turn your shoulders until your back is
+facing the target. That is the turn.
+
+Your hands and arms do not initiate this move. They follow. They are
+along for the ride, staying close to the body as your shoulders rotate.
+You do not lift your arms into the air. You do not pull the club up
+with your hands. You simply turn your shoulders — while keeping your
+eyes on the ball — and let your arms follow naturally.
+
+That is it. The turn is a rotation, not a lift.
+
+When the turn is working correctly you will feel your trail shoulder
+moving back and away from the target, your chest rotating away from
+the ball, and your weight loading into your trail side. Your arms will
+feel connected to your body — not flying out away from it. The club
+will reach the top of the backswing as a result of the turn, not as
+something you consciously lifted there.
+
+---
+
+## Keep Your Eyes on the Ball
+
+As you turn, your eyes stay on the ball. This is important for two
+reasons.
+
+First, it keeps your head still — which maintains the axis around which
+your swing rotates. Move your head during the backswing and you change
+the center of your swing, which leads to inconsistent contact.
+
+Second, it is a simple check. If you are struggling to keep your eyes
+on the ball during the turn, you are likely either lifting rather than
+turning, or your turn is incomplete. A proper turn allows you to rotate
+your shoulders fully while your head remains steady and your eyes stay
+fixed on the ball.
+
+---
+
+## The Arms Are Along for the Ride
+
+This point is worth repeating because it is so counterintuitive for
+most recreational golfers.
+
+You do not swing your arms back. You turn your body and your arms
+follow. Your arms stay close to your body throughout the turn — not
+pressed against it, but connected to it. They are not doing the work.
+The body rotation is doing the work and the arms are simply going where
+the body takes them.
+
+This is the fundamental difference between a body-driven swing and an
+arms-dominated swing. An arms-dominated swing looks like the player is
+picking the club up with their hands and lifting it above their shoulder.
+A body-driven swing looks effortless — because the rotation of the body
+is doing the heavy lifting.
+
+When your arms outrace your body — when they go first and the body
+follows — the face stays open through impact and the ball goes right.
+When the body turns and the arms follow, the face returns naturally to
+square. This is why the turn is the power move. And this is why getting
+it right fixes so many other things.
+
+---
+
+## How Far to Turn
+
+The goal is to turn until your back is facing the target. For younger,
+more flexible golfers this comes naturally. For older golfers —
+and I include myself here — full shoulder rotation can feel restricted,
+particularly in the hips and lower back.
+
+If you find your turn stopping short, try this: at address, flare your
+trail foot out slightly — just a subtle rotation outward, not dramatic.
+This small adjustment frees up the hip rotation that allows your
+shoulders to complete the turn. It is a simple fix that makes a
+meaningful difference, especially as flexibility becomes more of a
+factor.
+
+The goal is always as full a turn as your body comfortably allows.
+Do not force it. Work within your range of motion and the power will
+come from whatever rotation you can achieve — not from swinging your
+arms harder to compensate.
+
+---
+
+## What Happens When the Turn Is Wrong
+
+The most common failure is what I call arms racing ahead of the body.
+The player starts the backswing by moving their arms rather than turning
+their shoulders. The result is a swing that looks active — lots of arm
+movement, club going up — but has no real rotational power behind it.
+
+From this position at the top of the backswing, the only way to get
+the club back to the ball is to come over the top — which produces
+the classic outside-in swing path that causes slices, pulls, and weak
+contact.
+
+The other common failure is simply not turning enough. A half turn
+produces half the power and still forces compensations on the way down.
+Give the turn your full commitment every time.
+
+---
+
+## A Note on Lessons 3 and 4
+
+This lesson covers the turn — the rotational move that drives the
+backswing. The next lesson covers what happens at the top of that turn:
+the loading and setting of the wrists. The two are connected — the
+turn creates the conditions for the wrist set to happen naturally.
+
+Think of it this way: the turn is the engine. The wrist set is what
+stores the energy that engine creates.
+
+For now, focus entirely on the turn. Get it right. Then we will add
+the wrist set on top of it in Lesson 4.
+
+---
+
+## The Drill That Makes It Click
+
+Hit ten balls with your eyes closed.
+
+This sounds unusual. It works every time. Without visual distraction,
+your body defaults to feel — and you will immediately sense whether
+your shoulders are rotating or your arms are taking over. Most golfers
+who try this for the first time are surprised by what they discover.
+
+After the eyes-closed swings, hit ten more balls with your eyes open
+and try to recreate the same feeling. The contrast between the two
+tells you exactly what you need to work on.
+
+---
+
+## Key Takeaways
+
+- **The turn is your power move** — rotation, not arm lift, is where power comes from
+- **Shoulders turn until back faces the target** — as full a turn as your flexibility allows
+- **Arms follow the turn** — close to the body, not driving the motion
+- **Eyes stay on the ball** — head still, turn axis maintained
+- **Trail foot flared slightly** — helps older or less flexible golfers achieve a fuller turn
+- **Body leads, arms follow** — always, on every swing
+- **Eyes closed drill** — the fastest way to feel the difference between a turn and an arm swing
 
 ---
 
