@@ -593,6 +593,132 @@ tells you exactly what you need to work on.
 
 ---
 
+# Lesson 4: Backswing Simplified — Turn, Then Set
+
+## The Two-Part Backswing
+
+In the last lesson we covered the turn — the shoulder rotation that
+drives the backswing and generates power. Now we add the second piece:
+the wrist set.
+
+Together, these two moves are the entire backswing. Turn. Set. That is
+all you need to think about. The arms take care of themselves.
+
+---
+
+## What the Wrist Set Actually Is
+
+As your shoulders turn, your wrists load. This is not a conscious,
+mechanical movement — it happens naturally as a response to the turn,
+as long as you let it. Think of it as two connected movements:
+
+**The hinge.** As you turn, your wrists hinge — loading back, just
+like you are getting ready to cast a fishing line. If you have ever
+cast a fishing rod, you know the feeling of drawing the rod back and
+loading it before the forward cast. The energy builds in the load.
+That is exactly what happens with the wrists at the top of the
+backswing. You are loading the club, storing energy, getting ready
+to release it through the ball.
+
+**The slight roll.** At the same time there is a subtle side-to-side
+movement — a slight rolling that happens naturally as the forearms
+rotate during the backswing. Do not try to manufacture this. It is a
+result of the turn, not something you force.
+
+Together these two movements bring the club to the correct position
+at the top. You do not need to think about them separately. Focus on
+the feelings below and they will take care of themselves.
+
+---
+
+## The Feelings That Make It Click
+
+### The Fishing Cast
+
+You are at the water's edge, rod in hand, getting ready to cast. You
+draw the rod back — your body turns slightly, your elbow stays close
+to your body, and the rod loads behind you. You feel the weight of it.
+You feel the energy building.
+
+That loading feeling — the hinge, the weight of the club being drawn
+back as your body turns — is the wrist set. Let it load. Trust it.
+The release will come naturally on the downswing just like a cast.
+
+### Skipping a Rock
+
+Stand at the edge of a lake and go through the motion of skipping a
+flat rock across the water. Feel what your body does:
+
+Your body turns away from the target. Your elbow stays close to your
+body. As your arm draws back to the top of the throwing motion, your
+palm faces almost upward toward the sky. Your wrist is loaded, hinged,
+ready to snap through.
+
+That position — body turned, elbow close, palm facing up at the top —
+is remarkably close to the correct wrist position at the top of the
+backswing.
+
+Try it right now without a club. Go through the rock-skipping motion
+slowly. Feel your body turn, your elbow stay connected, and your wrist
+load into that palm-up position. That is the backswing. You already
+know how to do it.
+
+---
+
+## The Tray Position
+
+A useful checkpoint: at the top of the backswing your lead wrist should
+be flat — not cupped backward, not bent forward. Flat. Like you are
+holding a tray of drinks and nothing would spill.
+
+This is slightly exaggerated as a feel — but the direction is exactly
+right. A flat lead wrist means the clubface is square. A cupped lead
+wrist means the face is open and the ball will go right. Flat is
+the goal. The rock-skipping feel gets you there naturally.
+
+---
+
+## The Elbow Stays Close
+
+In all of these feels — the fishing cast, the rock skip, the tray —
+the trail elbow stays close to the body. It does not fly out away
+from the torso. It stays connected, working with the body rather
+than independently of it.
+
+A flying trail elbow is one of the most common backswing errors in
+recreational golf. It disconnects the arms from the body and makes
+a consistent downswing nearly impossible. Keep the elbow close.
+The analogies above will help you feel this naturally.
+
+---
+
+## The Full Backswing in Sequence
+
+1. From your setup, begin the shoulder turn
+2. As you turn, let the wrists load — feel the fishing cast hinge building
+3. Elbow stays close to the body
+4. Turn until your back faces the target
+5. At the top — lead wrist flat, trail palm feeling toward the sky, club loaded
+
+Two thoughts: turn, and set. Everything else follows.
+
+---
+
+## Key Takeaways
+
+- **Turn, then set** — the complete backswing in two words
+- **Fishing cast feel:** draw back and load, energy building for the release
+- **Rock skip feel:** body turns, elbow close, trail palm faces up at the top
+- **Tray position:** lead wrist flat at the top — not cupped, not bowed
+- **Elbow stays close** to the body throughout
+- **Arms follow** — do not think about them
+
+---
+
+&nbsp;
+
+---
+
 # PART TWO: THE 5-SESSION RANGE PLAN
 
 *[Full detail included in guide — session breakdown, drills, club
