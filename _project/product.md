@@ -50,10 +50,10 @@
 
 1. Grip That Controls the Clubface
 2. Setup & Distance (The Contact Foundation)
-3. The Turn: The Move That Controls Your Swing
+3. The Turn: Your Power Move
 4. Backswing Simplified: Turn, Then Set
-5. Smooth Tempo: Stop Swinging Too Hard
-6. Natural Release: Right Hand Back, Left Hand Through
+5. Natural Release: Right Hand Back, Left Hand Through
+6. Smooth Tempo: Stop Swinging Too Hard
 7. The Iron Progression System: Same Swing, Different Club
 
 ---
