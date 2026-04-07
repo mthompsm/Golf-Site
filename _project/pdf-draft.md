@@ -738,6 +738,141 @@ Two thoughts: turn, and set. Everything else follows.
 
 ---
 
+# Lesson 5: Natural Release — Right Hand Back, Left Hand Through
+
+## The Downswing Is Simpler Than You Think
+
+Everything up to this point has been about the backswing — the grip,
+the setup, the turn, the wrist set. Now the club is at the top, loaded
+and ready. What happens next?
+
+Here is the key insight: if you have done everything correctly on the
+way back, the downswing largely takes care of itself. The release is
+not something you manufacture. It is something you allow.
+
+---
+
+## The Sequence: Lower Body First
+
+The downswing begins from the ground up. Your lower body moves first —
+hips beginning to shift and rotate back toward the target — and your
+arms follow. Not the other way around.
+
+This sequence is critical. When the arms go first — when you throw
+the club at the ball from the top — you lose the stored energy in
+your wrist set, come over the top, and produce the weak, glancing
+contact that causes slices and pulls.
+
+When the lower body leads, the arms drop naturally into the slot, the
+elbow stays close to the body, and the wrist set is preserved — held,
+loaded — until the moment of release.
+
+Think of it exactly like throwing something. You do not start the throw
+with your arm. Your lower body rotates first, your arm comes along,
+and the release happens at the end as a natural result of the sequence.
+The golf swing is the same motion at a different scale.
+
+---
+
+## Hold the Lag
+
+As the lower body initiates the downswing and the arms follow, you are
+holding the angle — the bend — in your trail arm. Elbow close to the
+body. Wrist still loaded. Club trailing behind.
+
+This is what instructors call lag. You are not casting the club from
+the top. You are holding the load, letting the lower body lead, and
+waiting for the right moment to release.
+
+That moment comes as the club approaches waist height on the
+downswing. At that point — naturally, without forcing it — the wrists
+release through the ball. The stored energy fires. That is where
+the speed comes from. Not from effort at the top. From releasing a
+loaded wrist at exactly the right moment.
+
+---
+
+## The Thumb to Thumb Feel
+
+Here is one of the most useful checkpoints I have found for the
+release — and it works across the entire swing.
+
+At the top of the backswing, the club feels like it is resting on
+the thumb of your trail hand. That is the load position — the
+weight of the club sitting on that thumb, ready.
+
+At the other end of the swing — after impact, into the follow
+through — the club feels like it is resting on the thumb of your
+lead hand. The weight has transferred from one thumb to the other.
+
+Trail thumb at the top. Lead thumb at the finish.
+
+If you can feel that transfer — that shift of the club's weight from
+one thumb to the other through the swing — you are releasing correctly.
+It is a simple, physical checkpoint that cuts through a lot of
+technical noise.
+
+---
+
+## After Contact — Keep Going
+
+One mistake recreational golfers make is decelerating through impact —
+subconsciously hitting at the ball rather than through it. The ball is
+not the destination. The follow through is.
+
+After contact, the swing continues. Your body keeps rotating. Your
+arms extend through and up. Your weight moves fully onto your lead
+side. The club finishes high.
+
+A complete follow through is not cosmetic. It is evidence that you
+accelerated through impact rather than into it. If your follow through
+is short or cramped, you stopped at the ball. Keep going.
+
+---
+
+## The Most Important Thing About the Release
+
+On the course, you do not think about any of this.
+
+Not the lag. Not the thumb to thumb. Not the lower body sequence.
+You have one thought — maybe two at the range while you are building
+the habit — and then you let the swing happen.
+
+Here is the reality: the human brain cannot process a checklist of
+swing mechanics in the 1.2 seconds it takes to swing a golf club.
+Trying to do so is exactly what causes the tension, the hesitation,
+and the over-controlled swing that most recreational golfers are
+fighting.
+
+On the course your only job is to pick a target, run your four-point
+pre-shot routine, choose one simple swing thought, and commit. One
+thought. Something simple. Something that gets your conscious mind
+out of the way so your body can do what you have trained it to do.
+
+In fact, some of my best swings happen when my mind is elsewhere
+entirely. Why do "slim chance" and "fat chance" mean the same thing?
+How does a building burn down but a car burns up? Why do we park in
+driveways and drive on parkways?
+
+Think about that. Then swing.
+
+---
+
+## Key Takeaways
+
+- **Lower body leads the downswing** — arms follow, never the other way around
+- **Hold the lag** — elbow close, wrist loaded, let the lower body go first
+- **Release at waist height** — not from the top, not at impact, through impact
+- **Thumb to thumb** — trail thumb at top, lead thumb at finish, feel the transfer
+- **Keep going after contact** — swing through the ball, not at it
+- **On the course: one thought only** — trust what you have practiced, get your mind out of the way
+
+---
+
+&nbsp;
+
+---
+
 # PART TWO: THE 5-SESSION RANGE PLAN
 
 *[Full detail included in guide — session breakdown, drills, club
