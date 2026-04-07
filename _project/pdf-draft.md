@@ -1213,10 +1213,291 @@ Trust it. Play golf. Enjoy the round.
 
 ---
 
-# PART TWO: THE 5-SESSION RANGE PLAN
+# PART TWO: THE RANGE PLAN
 
-*[Full detail included in guide — session breakdown, drills, club
-progression, and the Golden Rule]*
+## The Philosophy
+
+Most golfers go to the range and hit balls. That is not practice.
+Practice is hitting balls with a purpose — a specific focus, a target,
+a feeling you are trying to build. The difference between the two is
+the difference between spinning your wheels and actually improving.
+
+This range plan gives you that purpose. Each session has a focus —
+drawn directly from the seven lessons — so that every ball you hit
+is building something. You are still hitting balls. You are just
+thinking about one or two specific things while you do it.
+
+That is the key distinction: the lesson focus is what you think
+about while you swing. You do not stop hitting to analyze. You hit,
+you feel, you adjust, you hit again. The thinking happens between
+shots — not during them.
+
+---
+
+## The Rules
+
+**Go 2–3 times per week minimum.**
+Consistency matters more than volume. Two focused sessions per week
+will outperform one long session every ten days every time. If you
+can get to three sessions, even better. Improvement compounds when
+it is consistent.
+
+**Minimum 50 balls per session. Ideally 100.**
+A small bucket at most ranges is 30–40 balls — not enough. A large
+bucket is typically 100. Aim for at least 50 balls of iron work per
+session, plus additional time on the short game. If budget is a
+concern, a large bucket split across two visits is better than two
+small buckets.
+
+**Always end with short game.**
+Chipping and putting every single session. No exceptions. Budget
+roughly 30% of your time near the green — chipping to targets,
+putting from different distances. This is where strokes are saved
+and it is the most neglected part of most golfers' practice.
+
+**Pick a target. Know the distance.**
+Before every shot, pick a specific target — a flag, a marker, a
+yardage sign. Know how far it is. Use a rangefinder if you have
+one. Ask someone nearby who does. Hitting balls with no target is
+not practice. It is just hitting balls in a direction.
+
+**Keep swing thoughts to two maximum.**
+Each session has a lesson focus — one or two concepts from the
+guide. That is all you think about. Not your grip AND your turn
+AND your wrist set AND your tempo. One or two things. The rest
+of the swing runs on what you have already built.
+
+**Two at a time — no more.**
+You do not work on more than two lessons per session. Ever. The
+goal is not to fix everything at once. The goal is to make two
+things feel natural, then move to the next two. Rushing this
+process does not speed up improvement — it slows it down.
+
+---
+
+## The 5-in-a-Row Rule
+
+You do not move to a longer club until you hit five consecutive
+consistent strikes with the current one.
+
+Not five perfect shots. Five shots where the contact feels solid,
+the ball flight is reasonable, and the swing feels repeatable.
+That is your promotion test. If you are on your 9-iron and you
+cannot get five in a row, you stay on the 9-iron. If the 7-iron
+is giving you trouble, you go back to the 8-iron.
+
+This rule will feel slow at first. It is not slow — it is how
+habits are actually built. Moving on before you are ready just
+means carrying bad patterns into the next club.
+
+---
+
+## Keep Swinging Between Sessions
+
+The range is not the only place improvement happens.
+
+Grip a club in your garage and swing it slowly. Get a strike bag
+or an impact bag and work on your release feel. Stand in front of
+a mirror and check your setup. Go through the rock-skipping motion
+without a club to feel the wrist set.
+
+Any deliberate repetition of correct motion between range sessions
+accelerates improvement. Even ten minutes in the garage three times
+a week makes a difference over a season.
+
+---
+
+## The Session Map
+
+Each pair of sessions below focuses on two lessons. You hit balls
+throughout — the lesson focus is simply what you are thinking about
+while you do.
+
+---
+
+### Sessions 1 & 2 — Grip & Setup
+**Lesson focus:** Lessons 1 and 2
+**Clubs:** Pitching wedge and 9-iron only
+**Swing thoughts:** Grip correct? Ball close, not reaching?
+
+These two sessions are about building the foundation. Use only your
+most forgiving clubs. Before every single shot, build your grip from
+Step 1 — hold the club out, square the face, lead hand, trail hand.
+Check both Vs. Then address the ball, check your distance, check
+your position.
+
+You are hitting balls the entire time. But between each shot you
+reset completely — back to the grip, back to the setup. The goal
+is not distance or perfect ball flight. The goal is to build the
+same grip and the same setup, the same way, every time.
+
+Do not leave these sessions until the grip feels natural. Not
+automatic — natural. That comes later. For now, natural is enough.
+
+**5-in-a-row check:** Five consecutive shots where the grip felt
+correct and the setup felt balanced. Then and only then move to
+Sessions 3 and 4.
+
+**End every session:** 15–20 minutes of chipping and putting.
+
+---
+
+### Sessions 3 & 4 — The Turn & Backswing
+**Lesson focus:** Lessons 3 and 4
+**Clubs:** 9-iron and 8-iron
+**Swing thoughts:** Make the full turn. Turn then set.
+
+You know your grip. You know your setup. Now you are adding the
+engine — the shoulder turn and wrist set that drive the backswing.
+
+Start every session with 10 balls at a slow, deliberate pace.
+Feel the shoulders rotating until your back faces the target. Feel
+the wrists loading as a natural response to the turn — the fishing
+cast, the rock skip, the coffee mug. Pick whichever analogy works
+for you and use it consistently.
+
+Then hit your remaining balls at normal pace with one thought:
+turn and set. Not both simultaneously — turn first, then feel the
+wrists load at the top. Let the arms follow without thinking about
+them.
+
+Move from the 9-iron to the 8-iron only when five consecutive
+shots feel like a genuine full turn with a loaded wrist at the top.
+
+**5-in-a-row check:** Five shots where you felt the back facing
+the target and the wrist loading naturally. Then move on.
+
+**End every session:** 15–20 minutes of chipping and putting.
+
+---
+
+### Sessions 5 & 6 — Release & Tempo
+**Lesson focus:** Lessons 5 and 6
+**Clubs:** 8-iron and 7-iron
+**Swing thoughts:** Lower body first. One — and — two — three.
+
+These two sessions connect the backswing to impact. The lower
+body leads the downswing, the lag holds until waist height, the
+wrists release naturally through the ball. Thumb to trail hand
+at the top. Thumb to lead hand at the finish.
+
+For tempo, start every session with 10 balls on your 8-iron at
+70% effort — not slow, just controlled. Feel the count: one and
+two three. Slow backswing, smooth transition, release at the end.
+Then hit your remaining balls trying to maintain that same tempo
+as you move to the 7-iron.
+
+If the 7-iron feels rushed or forced, go back to the 8-iron. The
+tempo does not change between clubs. If it feels different, the
+club is not the problem — the tempo is.
+
+**5-in-a-row check:** Five shots where the lower body led,
+the tempo felt smooth, and the follow through was complete.
+
+**End every session:** 15–20 minutes of chipping and putting.
+
+---
+
+### Sessions 7 & 8 — Iron Progression
+**Lesson focus:** Lesson 7
+**Clubs:** 7-iron through 5-iron
+**Swing thoughts:** Same swing. Trust it.
+
+By this point you have built the swing across six sessions.
+Now you apply it through the longer irons. Same grip, same setup,
+same turn, same tempo — just a longer club.
+
+Start with the 7-iron and do not move to the 6-iron until you
+have five consecutive consistent strikes. Then the 6-iron to
+the 5-iron. Take your time. The 5-iron is genuinely harder than
+the 9-iron — not because the swing is different but because the
+margin for error is smaller. Trust the fundamentals.
+
+One thought only in these sessions: same swing. When you catch
+yourself trying to swing differently because the club is longer,
+stop. Reset. Same swing.
+
+**5-in-a-row check:** Five consistent strikes at each club before
+moving to the next.
+
+**End every session:** 15–20 minutes of chipping and putting.
+
+---
+
+### Sessions 9 & 10 — Full Swing, One Thought
+**Lesson focus:** All lessons — applied
+**Clubs:** Your choice
+**Swing thoughts:** One. Maybe none.
+
+These sessions are about trust. No mechanics. No checklists.
+You pick one simple swing thought — "make the turn," "smooth
+tempo," "stay close," whatever feels most useful that day —
+and you hit balls.
+
+Simulate the course. Pick targets. Go through your pre-shot
+routine on every shot. Step back between shots. Reset. One
+thought. Commit. Swing.
+
+This is how the range connects to the course. The golfer who
+can take a practice swing thought and play freely is the golfer
+who improves fastest. The golfer who carries a checklist to the
+first tee goes backwards.
+
+**End every session:** 15–20 minutes of chipping and putting.
+
+---
+
+## The Golden Rule
+
+If a longer club is not working, go back to the shorter one.
+Always. No exceptions. There is no shame in spending three
+sessions on grip and setup if that is what needs work. The
+progression moves forward only when the current club and current
+lesson feel consistent — not before.
+
+The golfer who rushes through this plan and arrives at Session 9
+with a shaky grip and no real turn has wasted their time. The
+golfer who takes six weeks on the first four sessions and arrives
+at Session 9 with a solid foundation has built something real.
+
+Take the time it takes.
+
+---
+
+## The Short Game — Every Session
+
+Every range session ends near the green. Minimum 15–20 minutes.
+This is not optional.
+
+**Chipping:** Pick targets at different distances. Start close —
+five yards from the green — and work backwards. Focus on a
+consistent, simple motion. One thought: accelerate through the
+ball, do not decelerate into it.
+
+**Putting:** Start with short putts — three to four feet — and
+build confidence. Then move to longer putts focusing on speed
+control rather than line. Most three-putts are caused by poor
+speed, not poor aim.
+
+The short game is where recreational golfers save the most
+strokes. A round where you get up and down half the time you
+miss a green is a very good round. That skill is built here,
+at the end of every range session, consistently.
+
+---
+
+## A Final Note on the Range Plan
+
+This plan will take time. Ten sessions at two to three per week
+is four to five weeks minimum — and that assumes you are ready
+to move forward at each stage, which not everyone will be.
+
+Some golfers will spend a month on Sessions 1 and 2. That is
+fine. Better to have an automatic grip and setup after a month
+than to rush forward with a shaky foundation.
+
+The goal is not to finish the plan. The goal is to build a
+swing that works. Take whatever time that requires.
 
 ---
 
