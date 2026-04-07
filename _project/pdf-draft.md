@@ -1028,6 +1028,191 @@ rest. Trust the physics.
 
 ---
 
+# Lesson 7: The Iron Progression System — Same Swing, Different Club
+
+## The Most Honest Thing I Can Tell You About Golf
+
+You could play an entire round of golf without a driver and shoot
+bogey golf. Maybe better.
+
+Let that sit for a moment. No driver. Just irons, wedges, and a
+putter. Bogey golf — one over par on every hole — is an entirely
+achievable, genuinely enjoyable round of golf. And the path to
+getting there runs straight through your irons, not your driver.
+
+Most recreational golfers have it backwards. They judge themselves
+by how far they hit the driver. They spend the most time on the
+range beating drivers. They buy the most expensive driver they can
+find. And then they wonder why their scores do not improve.
+
+Here is the truth: the strokes that actually determine your score
+are the ones within 150 yards of the hole. Approach shots.
+Short irons. Wedges. The shots that set up your putts. That is
+where rounds are made and lost — not on the tee box.
+
+---
+
+## Where Most Golfers Actually Lose Their Strokes
+
+Think through a typical hole for a high handicapper:
+
+A wayward drive adds a stroke — maybe. But from the rough or the
+fairway, a solid 7-iron to the green sets up a two-putt bogey.
+Manageable.
+
+But a poor approach shot — fat, thin, short, wide — leads to a
+chip, then a putt, then another putt. Suddenly you are making
+double bogey on a hole where bogey was completely available.
+
+The approach shot. The iron. That is the shot that determined
+the outcome — not the drive.
+
+And here is another reality most golfers ignore: the majority of
+recreational golfers do not even carry an official handicap. Which
+means they are almost certainly not competitive golfers with
+structured improvement programs. They are people who love the game,
+play when they can, and want to enjoy it more by getting better.
+
+For that golfer — which is most golfers — getting under a 20
+handicap, or under a 15, or breaking 90 consistently, is a
+meaningful and satisfying goal. And that goal is achieved through
+iron consistency, not driver distance.
+
+---
+
+## Bogey Golf Is Good Golf
+
+Let me say this clearly because it does not get said enough:
+bogey golf is good golf.
+
+A handicap under 10 puts you in a very small percentage of all
+golfers who play the game. Under 5 is rarer still. Scratch golf
+— playing to par — represents a fraction of a percent of golfers
+worldwide. These are not realistic targets for most recreational
+players, and chasing them creates frustration that takes the
+enjoyment out of the game entirely.
+
+Bogey golf means you are having fun, hitting some good shots,
+managing the course, and finishing rounds in a reasonable time.
+That is what golf is supposed to be.
+
+This guide will not turn you into a scratch golfer. It will help
+you become a more consistent, more enjoyable, more confident golfer.
+That is a worthy goal. Do not let anyone — including yourself —
+tell you otherwise.
+
+---
+
+## Start Short and Work Backwards
+
+Here is the progression I recommend for building your iron game —
+and it is the opposite of what most golfers do naturally:
+
+**Start with your wedges.** Your 52, 54, or 56 degree wedge.
+Your pitching wedge. These are the easiest clubs to hit
+consistently because they are shorter, heavier, and have more
+loft. The loft gets the ball in the air without you having to
+help it. The shorter shaft gives you more control. And because
+you are not expecting to hit it 200 yards, you do not swing hard —
+which, as we covered in Lesson 6, is exactly the right approach.
+
+Get consistent with your wedges first. Apply everything from
+this guide — grip, setup, turn, backswing, release, tempo — with
+your wedges until the swing feels natural and repeatable.
+
+**Then move to the 9-iron.** Same swing. The club is slightly
+longer and less lofted but nothing about your mechanics changes.
+Let the club do what it is designed to do.
+
+**Then the 8-iron. Then the 7. Then the 6. Then the 5.**
+
+Each step the club gets longer and the shot gets harder — but
+the swing stays the same. You are not adjusting your mechanics
+for each club. You are applying the same system with a different
+tool.
+
+**The driver comes last** — and only after the irons are working.
+Not because you cannot hit the driver in the meantime, but because
+the driver should not be your improvement priority. Play it, enjoy
+it, but build your game from the short clubs out.
+
+---
+
+## The Same Swing
+
+This is the core principle of this entire lesson and worth stating
+plainly: you do not need a different swing for every iron.
+
+The grip does not change. The setup adjusts slightly — ball
+position moves progressively forward as the club gets longer,
+as we covered in Lesson 2. The stance widens very slightly.
+But the swing — the turn, the wrist set, the release, the tempo —
+is identical across every iron in your bag.
+
+This is enormously liberating once you accept it. You are not
+learning seven different swings. You are learning one swing and
+applying it with different clubs.
+
+The golfer who complicates this — who thinks they need a special
+move for the 5-iron that is different from the 9-iron — creates
+confusion and inconsistency. The golfer who trusts one swing
+across the whole bag builds something repeatable.
+
+---
+
+## Why Short Irons Are Easier
+
+There is a mechanical reason short irons are easier to hit
+consistently, and understanding it helps you trust the progression.
+
+A shorter shaft means the club arc is smaller and more controllable.
+More loft means the club naturally gets the ball airborne — you do
+not have to help it. The combination of control and natural launch
+makes consistent contact far more achievable.
+
+As the club gets longer and less lofted, both of those advantages
+reduce. The arc gets wider and harder to repeat. The loft decreases
+so you feel more pressure to "hit the ball up." These are the forces
+that make longer irons harder — but they are manageable if your
+fundamentals are solid and your swing is consistent.
+
+Build the foundation with the short irons. The longer clubs will
+follow naturally.
+
+---
+
+## On the Course
+
+By the time you are on the course, all of this is background. You
+are not thinking about iron progression or swing mechanics.
+
+You pick your club. You go through your pre-shot routine. You pick
+one swing thought. You commit and swing.
+
+The system you have built through six lessons of work is running
+underneath everything — in your grip, your setup, your turn. You
+do not need to access it consciously. It is there.
+
+Trust it. Play golf. Enjoy the round.
+
+---
+
+## Key Takeaways
+
+- **Bogey golf is good golf** — a worthy, enjoyable goal for most recreational players
+- **Strokes are lost within 150 yards** — irons and wedges determine your score more than your driver
+- **Start with wedges, work backwards** — short irons first, longer irons after, driver last in the improvement plan
+- **Same swing for every iron** — grip, turn, release, tempo do not change between clubs
+- **Ball position adjusts, swing does not** — slightly back for short irons, progressively forward for longer clubs
+- **Short irons are easier** — shorter shaft, more loft, smaller arc. Build consistency here first
+- **On the course: trust the system** — one thought, commit, swing, enjoy the round
+
+---
+
+&nbsp;
+
+---
+
 # PART TWO: THE 5-SESSION RANGE PLAN
 
 *[Full detail included in guide — session breakdown, drills, club
