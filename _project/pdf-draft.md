@@ -299,6 +299,36 @@ often feels too close at first. That feeling is normal. Trust it.
 
 ---
 
+## Arm Extension at Address
+
+One thing I changed in my own setup that made an immediate difference:
+**I stopped letting my arms hang loosely and started extending them with
+intention.**
+
+There is a difference between arms that hang naturally and arms that hang
+limply. You want extension — not stiff, locked-out straight, but firm and
+controlled. Think of it as reaching the club down to the ball rather than
+dropping toward it.
+
+Here is the feel cue that works for me: at address, your elbows should
+feel like they are moving slightly toward each other — not dramatically,
+just a subtle closeness. When your arms are loose and floppy, the elbows
+flare outward. When you extend with control, they come in. That feeling
+of elbows drawing together is how you know your arms are in the right
+position.
+
+Why it matters: arm extension at address creates a consistent connection
+between your arms and your body. Floppy arms at setup lead to floppy arms
+in the swing — the arms detach from the body rotation and start doing
+their own thing. Extended arms stay connected. They move with the body
+turn instead of away from it.
+
+This does not mean gripping tight or tensing up. The grip pressure stays
+the same. It is the arm position that changes — extended and controlled,
+not limp and passive.
+
+---
+
 ## Ball Position in the Stance
 
 This is one of the more nuanced aspects of setup and one that most
@@ -413,7 +443,8 @@ from the new position and the results will do the convincing.
 
 ## Key Takeaways
 
-- **Natural athletic position** — slight knee flex, lean from hips, arms hang freely
+- **Natural athletic position** — slight knee flex, lean from hips, arms extended with control
+- **Arm extension** — not limp, not stiff — extended and connected; elbows feel slightly closer together
 - **Ball distance** — closer than you think, not reaching
 - **Ball position** — back in stance for short irons, progressively forward to center for longer irons
 - **Hands slightly ahead** of the ball at address — consistent across all irons
