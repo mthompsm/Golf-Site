@@ -545,6 +545,45 @@ ul { list-style: none; }
   font-style: italic;
 }
 
+.pricing-coming-soon {
+  border-color: var(--gray-light);
+  opacity: 0.82;
+}
+.pricing-coming-soon:hover { transform: none; box-shadow: none; }
+.pricing-coming-soon .pricing-price { color: var(--gray-mid); }
+.pricing-badge-soon {
+  background: var(--gray-mid);
+  color: var(--white);
+}
+.coming-soon-btn {
+  display: block;
+  width: 100%;
+  padding: 14px;
+  text-align: center;
+  background: var(--gray-light);
+  color: var(--gray-mid);
+  border-radius: var(--radius);
+  font-size: 0.88rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  cursor: default;
+}
+.upgrade-note {
+  color: var(--green-mid) !important;
+  font-style: italic;
+  font-size: 0.82rem !important;
+}
+.cta-sub-note {
+  margin-top: 16px;
+  font-size: 0.85rem;
+  color: rgba(255,255,255,0.65);
+  font-style: italic;
+}
+.hero-note:last-child {
+  margin-top: 2px;
+}
+
 /* ---- FAQ ---- */
 .faq-container { max-width: 740px; margin: 0 auto; }
 .faq-list { display: flex; flex-direction: column; gap: 0; }
